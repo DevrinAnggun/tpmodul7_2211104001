@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL_Devrin_Anggun_Saputri_2211104001_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2211104001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{516AC4F2-5E82-4F50-B9B1-8B13BDE92629}|tpmodul7_2211104001\\tpmodul7_2211104001.csproj|d:\\kpl_devrin_anggun_saputri_2211104001_se0601\\07_grammar-based_input_processing_parsing\\tp\\tpmodul7_2211104001\\tpmodul7_2211104001\\kuliahmahasiswa2211104001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516AC4F2-5E82-4F50-B9B1-8B13BDE92629}|tpmodul7_2211104001\\tpmodul7_2211104001.csproj|solutionrelative:tpmodul7_2211104001\\kuliahmahasiswa2211104001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KPL_Devrin_Anggun_Saputri_2211104001_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2211104001\\tp7_2_2211104001.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tp7_2_2211104001.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516AC4F2-5E82-4F50-B9B1-8B13BDE92629}|tpmodul7_2211104001\\tpmodul7_2211104001.csproj|d:\\kpl_devrin_anggun_saputri_2211104001_se0601\\07_grammar-based_input_processing_parsing\\tp\\tpmodul7_2211104001\\tpmodul7_2211104001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516AC4F2-5E82-4F50-B9B1-8B13BDE92629}|tpmodul7_2211104001\\tpmodul7_2211104001.csproj|solutionrelative:tpmodul7_2211104001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516AC4F2-5E82-4F50-B9B1-8B13BDE92629}|tpmodul7_2211104001\\tpmodul7_2211104001.csproj|d:\\kpl_devrin_anggun_saputri_2211104001_se0601\\07_grammar-based_input_processing_parsing\\tp\\tpmodul7_2211104001\\tpmodul7_2211104001\\datamahasiswa2211104001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516AC4F2-5E82-4F50-B9B1-8B13BDE92629}|tpmodul7_2211104001\\tpmodul7_2211104001.csproj|solutionrelative:tpmodul7_2211104001\\datamahasiswa2211104001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tp7_2_2211104001.json",
+              "DocumentMoniker": "D:\\KPL_Devrin_Anggun_Saputri_2211104001_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2211104001\\tp7_2_2211104001.json",
+              "RelativeDocumentMoniker": "tp7_2_2211104001.json",
+              "ToolTip": "D:\\KPL_Devrin_Anggun_Saputri_2211104001_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2211104001\\tp7_2_2211104001.json",
+              "RelativeToolTip": "tp7_2_2211104001.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T17:43:28.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KuliahMahasiswa2211104001.cs",
+              "DocumentMoniker": "D:\\KPL_Devrin_Anggun_Saputri_2211104001_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2211104001\\tpmodul7_2211104001\\KuliahMahasiswa2211104001.cs",
+              "RelativeDocumentMoniker": "tpmodul7_2211104001\\KuliahMahasiswa2211104001.cs",
+              "ToolTip": "D:\\KPL_Devrin_Anggun_Saputri_2211104001_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2211104001\\tpmodul7_2211104001\\KuliahMahasiswa2211104001.cs",
+              "RelativeToolTip": "tpmodul7_2211104001\\KuliahMahasiswa2211104001.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:28:15.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataMahasiswa2211104001.cs",
+              "DocumentMoniker": "D:\\KPL_Devrin_Anggun_Saputri_2211104001_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2211104001\\tpmodul7_2211104001\\DataMahasiswa2211104001.cs",
+              "RelativeDocumentMoniker": "tpmodul7_2211104001\\DataMahasiswa2211104001.cs",
+              "ToolTip": "D:\\KPL_Devrin_Anggun_Saputri_2211104001_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2211104001\\tpmodul7_2211104001\\DataMahasiswa2211104001.cs",
+              "RelativeToolTip": "tpmodul7_2211104001\\DataMahasiswa2211104001.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:56:38.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL_Devrin_Anggun_Saputri_2211104001_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2211104001\\tpmodul7_2211104001\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul7_2211104001\\Program.cs",
+              "ToolTip": "D:\\KPL_Devrin_Anggun_Saputri_2211104001_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\tpmodul7_2211104001\\tpmodul7_2211104001\\Program.cs",
+              "RelativeToolTip": "tpmodul7_2211104001\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:54:26.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

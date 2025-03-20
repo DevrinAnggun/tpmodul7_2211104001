@@ -1,0 +1,36 @@
+{
+  "courses": [
+    {
+      "kode": "CCK2KAB4",
+      "nama": "KONSTRUKSI PERANGKAT LUNAK"
+    },
+    {
+      "kode": "CCK3IAB2",
+      "nama": "TATA TULIS ILMIAH"
+    },
+    {
+      "kode": "CCK2JAC2",
+      "nama": "PROYEK TINGKAT II"
+    },
+    {
+      "kode": "CCK1LAB3",
+      "nama": "DESIGN THINKING"
+    },
+    {
+      "kode": "CCK2DAB3",
+      "nama": "PROSES PERANGKAT LUNAK"
+    },
+    {
+      "kode": "CCK2LAB3",
+      "nama": "KECERDASAN BUATAN"
+    },
+    {
+      "kode": "CCK3KAB3",
+      "nama": "MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK"
+    },
+    {
+      "kode": "CCK2KAB4",
+      "nama": "PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK"
+    }
+  ]
+}
